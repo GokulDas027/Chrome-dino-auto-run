@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
-from PIL import ImageGrab
+from PIL import ImageGrab # windows and mac
+# import pyscreenshot as ImageGrab # linux
 import ctypes
 
 # bbox = (450, 230, 500, 265) fix
@@ -42,5 +43,5 @@ while True:
     # listen for ESC key to exit. 
     if cv2.waitKey(1) == 27: # when ESC is pressed
         break
-    
+
 cv2.destroyAllWindows()
