@@ -1,7 +1,7 @@
 # Chrome-dino-auto-run
 Autonomous Dino run using OpenCV and Numpy. The Running t-rex of 21st century.
 
-.......................................![Auto Dino gif](https://drive.google.com/uc?export=view&id=19b1s_Y2N4Ez_gb3pfZaTL6Ha9TbnOnGI).......................................
+.....................................![Auto Dino gif](https://drive.google.com/uc?export=view&id=19b1s_Y2N4Ez_gb3pfZaTL6Ha9TbnOnGI).....................................
 
 ![Autonomous Dino Highscore ss](https://drive.google.com/uc?export=view&id=1zPd9J8OaQM5FvLrO87DfLdGLAHlth8us)
 
